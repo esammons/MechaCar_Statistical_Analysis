@@ -8,3 +8,5 @@
 ## T-Tests on Suspension Coils
 ![image](https://user-images.githubusercontent.com/80020179/123574573-ef936000-d784-11eb-815b-e0ecf6b71135.png)
 * Considering the usual significance level is around 0.05 percent, and our p-value is above our significance level at .06 it is safe to say that we do not have sufficient evidence to reject the null hypothesis, and it would be safe to say that the means are statistically similar.
+## Study Design: MechaCar vs Competition
+* Various components are being compared in this analysis, one of note being the psi within the suspension coils being produced. we are testing the Null hypothesis that there is a significant difference between different lots and their manufacturing resutls in terms of psi within the suspension coils. In this analysis a t-test was used to find out what the p- value was which was then used to compare against the hypothesis. This T-test was based off of various data points derived from tables created from csv files. Some of the data gathered were things such as lot numbers, psi readings, and product ID numbers. 
